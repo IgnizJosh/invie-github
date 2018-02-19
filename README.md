@@ -1,2 +1,2 @@
 # invie-github
-Repositorio de curso Platzi
+Repositorio de curso Platzi by IgnizJosh
